@@ -1,6 +1,6 @@
 # About
 
-* This repository contains problems related to computer vision, solved using **SOTA Deep Learnin Models **. 
+* This repository contains problems related to computer vision, solved using **SOTA Deep Learnin Models**. 
 
 * We would try to explore several famous convolutional neural networks like VGGs, resnets, inceptions, YOLO net etc.
 
