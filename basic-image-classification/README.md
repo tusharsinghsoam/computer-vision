@@ -1,4 +1,4 @@
-## About
+# About
 
 1. This project trains a neural network model to classify images of clothing, like sneakers and shirts. It uses the Fashion MNIST dataset which contains 70,000 grayscale images in 10 categories. Fashion MNIST is intended as a drop-in replacement for the [Classic MNIST](https://www.tensorflow.org/datasets/catalog/mnist) dataset—often used as the "Hello, World" of machine learning programs for computer vision.
 
@@ -8,7 +8,6 @@
 
 4. This project contains solution of another classification problem where we use convolutional neural network (CNN) to classify images of various types of flowers. We show concepts like data augmentation and dropout to mitigate over-fitting. We will also see how to efficiently loading a dataset off disk using tensorflow.s
 
-
-### Acknowledgment
+## Acknowledgment
 
 Beginner Tutorial named as [Basic Image Classification](https://www.tensorflow.org/tutorials/keras/classification) at tensorflow website.
